@@ -58,12 +58,12 @@ repositories {
         }
     }
 
-    configureGitHubRepo('MCEngine Particle API', 'https://maven.pkg.github.com/MCEngine/particle-api')
+    configureGitHubRepo('MCEngine Particle API', 'https://maven.pkg.github.com/MCEngine-API/particle')
 }
 
 dependencies {
-    compileOnly 'org.spigotmc:spigot-api:1.21.7-R0.1-SNAPSHOT'
-    compileOnly 'io.github.mcengine:particle-api:1.0.0-1-SNAPSHOT'
+    compileOnly 'org.spigotmc:spigot-api:1.21.8-R0.1-SNAPSHOT'
+    compileOnly 'io.github.mcengine:particle-api:2025.0.7-22'
 }
 
 shadowJar {
