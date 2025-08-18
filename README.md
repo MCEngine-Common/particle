@@ -1,3 +1,3 @@
-# Information
+# Information 📖
 
-This repository is created to share useful commands and listeners for Particle plugins.
+Info on [`website`](https://mcengine-website.github.io/particle/common/)
